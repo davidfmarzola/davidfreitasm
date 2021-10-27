@@ -1,4 +1,5 @@
 ## Hi there! I am David Freitas 👋
+#### Computer Science 3/8 💻📚
 
 - 🌱 I’m currently studying Computer Sciencie at PUC Minas 
 - ⚡ Fun fact: I'm willing to learn any technology
