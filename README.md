@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi there! I am David Freitas 👋
 
-<!--
-**davidfreitasm/davidfreitasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently studying Computer Sciencie at PUC Minas 
+- ⚡ Fun fact: I'm willing to learn any technology
+- 👯 I’m looking to collaborate on any project
+- 📫 You can reach me through my personal email: davidmarzola22@gmail.com
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/davidfreitasm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidfreitasm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfreitasm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="right" height="160" width="220" alt="Rafa-yoda" src="https://th.bing.com/th/id/R.e2aff2ad9de9e528e79647c93e7014d2?rik=p8QYT07Bp%2beLRg&riu=http%3a%2f%2fcdn7.dissolve.com%2fp%2fD538_365_007%2fD538_365_007_600.jpg&ehk=2HWa41Qsjulpu0tXybTpLljr88wQZ2pQLH%2b%2fGU5LXcU%3d&risl=&pid=ImgRaw&r=0">
+</div>
+
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/davidfreitasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCqTaBCnMeFp4tTNsUMTFQUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:davidmarzola22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
