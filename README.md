@@ -1,10 +1,8 @@
 ## Hi there! I am David Freitas 👋
-#### Computer Science 3/8 💻📚
+#### Computer Science Student 💻📚
 
-- 🌱 I’m currently studying Computer Sciencie at PUC Minas 
-- ⚡ Fun fact: I'm willing to learn any technology
-- 👯 I’m looking to collaborate on any project
-- 📫 You can reach me through my personal email: davidmarzola22@gmail.com
+- Responsive website using the moviedb API: https://dopeyquixoticoctagon.davidfreitas1.repl.co/
+- You can reach me through my personal email: davidmarzola22@gmail.com
 
  <div>
   <a href="https://github.com/davidfreitasm">
@@ -18,6 +16,8 @@
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="David-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="David-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="David-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 ##
