@@ -1,4 +1,3 @@
-## Hi there! I am David Freitas 👋
 #### Computer Science Student 💻📚
 
 - Responsive website using the moviedb API: https://dopeyquixoticoctagon.davidfreitas1.repl.co/
