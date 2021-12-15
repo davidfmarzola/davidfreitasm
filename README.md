@@ -1,6 +1,6 @@
 #### Computer Science Student 💻📚
 
-- Responsive website using the moviedb API: https://dopeyquixoticoctagon.davidfreitas1.repl.co/
+- Responsive website using the moviedb API: https://davidfreitasm.github.io/Portal-de-Filmes/
 - You can reach me through my personal email: davidmarzola22@gmail.com
 
  <div>
