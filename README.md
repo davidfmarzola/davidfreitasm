@@ -1,6 +1,7 @@
 #### Computer Science Student 💻📚
 
 - Responsive website using the moviedb API: https://davidfreitasm.github.io/Portal-de-Filmes/
+- Numbers analyzer for practicing JavaScript: https://davidfreitasm.github.io/Analisador-de-Numeros/
 - You can reach me through my personal email: davidmarzola22@gmail.com
 
  <div>
