@@ -1,4 +1,4 @@
-#### Computer Science Student 💻📚
+#### Computer Science 5/8 💻📚
 
 - Responsive website using the moviedb API: https://davidfreitasm.github.io/Portal-de-Filmes/
 - Numbers analyzer for practicing JavaScript: https://davidfreitasm.github.io/Analisador-de-Numeros/
@@ -6,7 +6,7 @@
 
  <div>
   <a href="https://github.com/davidfreitasm">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfreitasm&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfreitasm&exclude_repo=Inteligencia-Artificial&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   </div>
